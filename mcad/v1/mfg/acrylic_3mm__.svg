@@ -1,0 +1,1082 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg baseProfile="tiny" height="210mm" version="1.2" viewBox="0 0 2970 2100" width="297mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page exported from FreeCAD document: Unnamed</desc>
+ <defs/>
+ <g id="Page" inkscape:groupmode="layer" inkscape:label="TechDraw">
+  <g id="Default_Template_A4_Landscape.svg" style="stroke: none;" transform="scale(10.000000, 10.000000)">
+   <metadata id="metadata8">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+     </cc:Work>
+    </rdf:RDF>
+   </metadata>
+  </g>
+  <g fill="none" fill-rule="evenodd" id="DrawingContent" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-100,195 L-110,195 C-112.761,195 -115,197.239 -115,200 L-115,226 C-115,228.761 -117.239,231 -120,231 L-203,231 C-219.569,231 -233,244.431 -233,261 L-233,391 C-233,407.569 -219.569,421 -203,421 L203,421 C219.569,421 233,407.569 233,391 L233,261 C233,244.431 219.569,231 203,231 L120,231 C117.239,231 115,228.761 115,226 L115,200 C115,197.239 112.761,195 110,195 L100,195 C97.2386,195 95,192.761 95,190 L95,78 C95,75.2386 97.2386,73 100,73 L110,73 C112.761,73 115,70.7614 115,68 L115,-156 C115,-172.569 101.569,-186 85,-186 C68.4315,-186 55,-199.431 55,-216 L55,-391 C55,-407.569 41.5685,-421 25,-421 L-25,-421 C-41.5685,-421 -55,-407.569 -55,-391 L-55,-216 C-55,-199.431 -68.4315,-186 -85,-186 C-101.569,-186 -115,-172.569 -115,-156 L-115,68 C-115,70.7614 -112.761,73 -110,73 L-100,73 C-97.2386,73 -95,75.2386 -95,78 L-95,190 C-95,192.761 -97.2386,195 -100,195 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M175,386 L175,266 C175,263.239 177.239,261 180,261 L198,261 C200.761,261 203,263.239 203,266 L203,386 C203,388.761 200.761,391 198,391 L180,391 C177.239,391 175,388.761 175,386 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-175,386 L-175,266 C-175,263.239 -177.239,261 -180,261 L-198,261 C-200.761,261 -203,263.239 -203,266 L-203,386 C-203,388.761 -200.761,391 -198,391 L-180,391 C-177.239,391 -175,388.761 -175,386 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M15,-371 C15,-362.716 8.28427,-356 7.10543e-15,-356 C-8.28427,-356 -15,-362.716 -15,-371 C-15,-379.284 -8.28427,-386 7.10543e-15,-386 C8.28427,-386 15,-379.284 15,-371 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M155,326 C155,334.284 148.284,341 140,341 C131.716,341 125,334.284 125,326 C125,317.716 131.716,311 140,311 C148.284,311 155,317.716 155,326 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-125,326 C-125,334.284 -131.716,341 -140,341 C-148.284,341 -155,334.284 -155,326 C-155,317.716 -148.284,311 -140,311 C-131.716,311 -125,317.716 -125,326 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-100,195 L-110,195" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-110,195 C-112.761,195 -115,197.239 -115,200 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-100,195 C-97.2386,195 -95,192.761 -95,190 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-95,78 L-95,190" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-95,78 C-95,75.2386 -97.2386,73 -100,73 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-110,73 L-100,73" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-115,68 C-115,70.7614 -112.761,73 -110,73 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-115,-156 L-115,68" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-85,-186 C-101.569,-186 -115,-172.569 -115,-156 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-85,-186 C-68.4315,-186 -55,-199.431 -55,-216 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-55,-391 L-55,-216" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-25,-421 C-41.5685,-421 -55,-407.569 -55,-391 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M25,-421 L-25,-421" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M55,-391 C55,-407.569 41.5685,-421 25,-421 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M55,-216 L55,-391" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M55,-216 C55,-199.431 68.4315,-186 85,-186 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M85,-186 C101.569,-186 115,-172.569 115,-156 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M115,-156 L115,68" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M115,68 C115,70.7614 112.761,73 110,73 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M110,73 L100,73" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M95,78 C95,75.2386 97.2386,73 100,73 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M95,78 L95,190" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M100,195 C97.2386,195 95,192.761 95,190 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M100,195 L110,195" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M110,195 C112.761,195 115,197.239 115,200 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M115,226 L115,200" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M120,231 C117.239,231 115,228.761 115,226 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M120,231 L203,231" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M203,231 C219.569,231 233,244.431 233,261 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M233,261 L233,391" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M233,391 C233,407.569 219.569,421 203,421 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-203,421 L203,421" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-233,391 C-233,407.569 -219.569,421 -203,421 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-233,261 L-233,391" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-203,231 C-219.569,231 -233,244.431 -233,261 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-120,231 L-203,231" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-120,231 C-117.239,231 -115,228.761 -115,226 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-115,226 L-115,200" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M15,-371 C15,-362.716 8.28427,-356 7.10543e-15,-356 C-8.28427,-356 -15,-362.716 -15,-371 C-15,-379.284 -8.28427,-386 7.10543e-15,-386 C8.28427,-386 15,-379.284 15,-371 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M175,386 L175,266" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M180,391 C177.239,391 175,388.761 175,386 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M175,266 C175,263.239 177.239,261 180,261 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M198,391 L180,391" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M180,261 L198,261" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M203,386 C203,388.761 200.761,391 198,391 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M198,261 C200.761,261 203,263.239 203,266 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M203,266 L203,386" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M155,326 C155,334.284 148.284,341 140,341 C131.716,341 125,334.284 125,326 C125,317.716 131.716,311 140,311 C148.284,311 155,317.716 155,326 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-125,326 C-125,334.284 -131.716,341 -140,341 C-148.284,341 -155,334.284 -155,326 C-155,317.716 -148.284,311 -140,311 C-131.716,311 -125,317.716 -125,326 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-175,386 L-175,266" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-180,391 C-177.239,391 -175,388.761 -175,386 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-175,266 C-175,263.239 -177.239,261 -180,261 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-198,391 L-180,391" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-180,261 L-198,261" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-203,386 C-203,388.761 -200.761,391 -198,391 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-198,261 C-200.761,261 -203,263.239 -203,266 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,441.964,611.86)">
+    <path d="M-203,266 L-203,386" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,331.964,811.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,341.964,801.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,341.964,689.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,331.964,679.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,356.964,455.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,356.964,395.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,416.964,220.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,466.964,220.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,526.964,395.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,526.964,455.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,551.964,679.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,541.964,689.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,541.964,801.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,551.964,811.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,561.964,837.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,644.964,872.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,644.964,1002.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,238.964,1002.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,238.964,872.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,321.964,837.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,441.964,240.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,621.964,997.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,621.964,877.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,639.964,997.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,639.964,877.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,581.964,937.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,301.964,937.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,261.964,997.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,261.964,877.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,243.964,997.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,243.964,877.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-235,410 L-245,410 C-261.569,410 -275,423.431 -275,440 L-275,480 C-275,496.569 -261.569,510 -245,510 L245,510 C261.569,510 275,496.569 275,480 L275,440 C275,423.431 261.569,410 245,410 L235,410 C218.431,410 205,396.569 205,380 L205,272 C205,255.431 191.569,242 175,242 L145,242 C128.431,242 115,228.569 115,212 L115,-380 C115,-396.569 128.431,-410 145,-410 L245,-410 C261.569,-410 275,-423.431 275,-440 L275,-480 C275,-496.569 261.569,-510 245,-510 L-245,-510 C-261.569,-510 -275,-496.569 -275,-480 L-275,-440 C-275,-423.431 -261.569,-410 -245,-410 L-145,-410 C-128.431,-410 -115,-396.569 -115,-380 L-115,212 C-115,228.569 -128.431,242 -145,242 L-175,242 C-191.569,242 -205,255.431 -205,272 L-205,380 C-205,396.569 -218.431,410 -235,410 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-210,-460 C-210,-451.716 -216.716,-445 -225,-445 C-233.284,-445 -240,-451.716 -240,-460 C-240,-468.284 -233.284,-475 -225,-475 C-216.716,-475 -210,-468.284 -210,-460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M155,287 C155,295.284 148.284,302 140,302 C131.716,302 125,295.284 125,287 C125,278.716 131.716,272 140,272 C148.284,272 155,278.716 155,287 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-210,460 C-210,468.284 -216.716,475 -225,475 C-233.284,475 -240,468.284 -240,460 C-240,451.716 -233.284,445 -225,445 C-216.716,445 -210,451.716 -210,460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M15,-410 C15,-401.716 8.28427,-395 0,-395 C-8.28427,-395 -15,-401.716 -15,-410 C-15,-418.284 -8.28427,-425 0,-425 C8.28427,-425 15,-418.284 15,-410 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M15,-3.19744e-14 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,-3.19744e-14 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,-3.19744e-14 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M240,-460 C240,-451.716 233.284,-445 225,-445 C216.716,-445 210,-451.716 210,-460 C210,-468.284 216.716,-475 225,-475 C233.284,-475 240,-468.284 240,-460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-125,287 C-125,295.284 -131.716,302 -140,302 C-148.284,302 -155,295.284 -155,287 C-155,278.716 -148.284,272 -140,272 C-131.716,272 -125,278.716 -125,287 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M240,460 C240,468.284 233.284,475 225,475 C216.716,475 210,468.284 210,460 C210,451.716 216.716,445 225,445 C233.284,445 240,451.716 240,460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-235,410 L-245,410" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-245,410 C-261.569,410 -275,423.431 -275,440 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-275,440 L-275,480" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-275,480 C-275,496.569 -261.569,510 -245,510 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-245,510 L245,510" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M245,510 C261.569,510 275,496.569 275,480 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M275,480 L275,440" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M275,440 C275,423.431 261.569,410 245,410 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M245,410 L235,410" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M235,410 C218.431,410 205,396.569 205,380 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M205,380 L205,272" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M175,242 C191.569,242 205,255.431 205,272 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M145,242 L175,242" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M145,242 C128.431,242 115,228.569 115,212 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M115,-380 L115,212" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M115,-380 C115,-396.569 128.431,-410 145,-410 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M245,-410 L145,-410" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M245,-410 C261.569,-410 275,-423.431 275,-440 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M275,-440 L275,-480" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M275,-480 C275,-496.569 261.569,-510 245,-510 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M245,-510 L-245,-510" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-245,-510 C-261.569,-510 -275,-496.569 -275,-480 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-275,-480 L-275,-440" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-275,-440 C-275,-423.431 -261.569,-410 -245,-410 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-245,-410 L-145,-410" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-145,-410 C-128.431,-410 -115,-396.569 -115,-380 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-115,-380 L-115,212" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-115,212 C-115,228.569 -128.431,242 -145,242 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-145,242 L-175,242" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-205,272 C-205,255.431 -191.569,242 -175,242 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-205,272 L-205,380" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-235,410 C-218.431,410 -205,396.569 -205,380 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-210,-460 C-210,-451.716 -216.716,-445 -225,-445 C-233.284,-445 -240,-451.716 -240,-460 C-240,-468.284 -233.284,-475 -225,-475 C-216.716,-475 -210,-468.284 -210,-460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M15,-410 C15,-401.716 8.28427,-395 0,-395 C-8.28427,-395 -15,-401.716 -15,-410 C-15,-418.284 -8.28427,-425 0,-425 C8.28427,-425 15,-418.284 15,-410 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M240,-460 C240,-451.716 233.284,-445 225,-445 C216.716,-445 210,-451.716 210,-460 C210,-468.284 216.716,-475 225,-475 C233.284,-475 240,-468.284 240,-460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-125,287 C-125,295.284 -131.716,302 -140,302 C-148.284,302 -155,295.284 -155,287 C-155,278.716 -148.284,272 -140,272 C-131.716,272 -125,278.716 -125,287 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M-210,460 C-210,468.284 -216.716,475 -225,475 C-233.284,475 -240,468.284 -240,460 C-240,451.716 -233.284,445 -225,445 C-216.716,445 -210,451.716 -210,460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M15,-3.19744e-14 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,-3.19744e-14 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,-3.19744e-14 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M155,287 C155,295.284 148.284,302 140,302 C131.716,302 125,295.284 125,287 C125,278.716 131.716,272 140,272 C148.284,272 155,278.716 155,287 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M240,460 C240,468.284 233.284,475 225,475 C216.716,475 210,468.284 210,460 C210,451.716 216.716,445 225,445 C233.284,445 240,451.716 240,460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,865.801,1051.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,865.801,1091.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1355.8,1091.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1355.8,1051.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1345.8,991.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1285.8,883.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1255.8,823.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1255.8,231.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1355.8,171.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1355.8,131.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,865.801,131.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,865.801,171.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,965.801,231.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,965.801,823.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,935.801,883.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,875.801,991.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,885.801,151.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1110.8,201.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1335.8,151.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,970.801,898.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,885.801,1071.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1110.8,611.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1250.8,898.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1335.8,1071.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-265,-510 L265,-510 C281.569,-510 295,-496.569 295,-480 L295,480 C295,496.569 281.569,510 265,510 L-265,510 C-281.569,510 -295,496.569 -295,480 L-295,-480 C-295,-496.569 -281.569,-510 -265,-510 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M17.5795,426.179 C16.5358,427.999 14.5981,429.122 12.5,429.122 L-12.5,429.122 C-14.5981,429.122 -16.5358,427.999 -17.5795,426.179 L-21.8295,418.768 C-22.8687,416.956 -22.8638,414.728 -21.8167,412.92 C-20.7696,411.113 -18.8389,410 -16.75,410 L16.75,410 C18.8389,410 20.7696,411.113 21.8167,412.92 C22.8638,414.728 22.8687,416.956 21.8295,418.768 L17.5795,426.179" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-210,-460 C-210,-451.716 -216.716,-445 -225,-445 C-233.284,-445 -240,-451.716 -240,-460 C-240,-468.284 -233.284,-475 -225,-475 C-216.716,-475 -210,-468.284 -210,-460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-210,460 C-210,468.284 -216.716,475 -225,475 C-233.284,475 -240,468.284 -240,460 C-240,451.716 -233.284,445 -225,445 C-216.716,445 -210,451.716 -210,460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M240,-460 C240,-451.716 233.284,-445 225,-445 C216.716,-445 210,-451.716 210,-460 C210,-468.284 216.716,-475 225,-475 C233.284,-475 240,-468.284 240,-460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M240,460 C240,468.284 233.284,475 225,475 C216.716,475 210,468.284 210,460 C210,451.716 216.716,445 225,445 C233.284,445 240,451.716 240,460 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,-402.5 C-16.6421,-402.5 -20,-405.858 -20,-410 C-20,-414.142 -16.6421,-417.5 -12.5,-417.5 L12.5,-417.5 C16.6421,-417.5 20,-414.142 20,-410 C20,-405.858 16.6421,-402.5 12.5,-402.5 L-12.5,-402.5" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-265,-510 L265,-510" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-295,-480 C-295,-496.569 -281.569,-510 -265,-510 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M265,-510 C281.569,-510 295,-496.569 295,-480 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-295,480 L-295,-480" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M295,-480 L295,480" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-265,510 C-281.569,510 -295,496.569 -295,480 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M295,480 C295,496.569 281.569,510 265,510 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M265,510 L-265,510" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-210,-460 C-210,-451.716 -216.716,-445 -225,-445 C-233.284,-445 -240,-451.716 -240,-460 C-240,-468.284 -233.284,-475 -225,-475 C-216.716,-475 -210,-468.284 -210,-460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,-402.5 C-16.6421,-402.5 -20,-405.858 -20,-410 C-20,-414.142 -16.6421,-417.5 -12.5,-417.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,-417.5 L12.5,-417.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M12.5,-417.5 C16.6421,-417.5 20,-414.142 20,-410 C20,-405.858 16.6421,-402.5 12.5,-402.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,-402.5 L12.5,-402.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M240,-460 C240,-451.716 233.284,-445 225,-445 C216.716,-445 210,-451.716 210,-460 C210,-468.284 216.716,-475 225,-475 C233.284,-475 240,-468.284 240,-460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-210,460 C-210,468.284 -216.716,475 -225,475 C-233.284,475 -240,468.284 -240,460 C-240,451.716 -233.284,445 -225,445 C-216.716,445 -210,451.716 -210,460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M17.5795,426.179 C16.5358,427.999 14.5981,429.122 12.5,429.122 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,429.122 L12.5,429.122" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-12.5,429.122 C-14.5981,429.122 -16.5358,427.999 -17.5795,426.179 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-17.5795,426.179 L-21.8295,418.768" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-21.8295,418.768 C-22.8687,416.956 -22.8638,414.728 -21.8167,412.92 C-20.7696,411.113 -18.8389,410 -16.75,410 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M-16.75,410 L16.75,410" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M16.75,410 C18.8389,410 20.7696,411.113 21.8167,412.92 C22.8638,414.728 22.8687,416.956 21.8295,418.768 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M17.5795,426.179 L21.8295,418.768" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1870.1,611.86)">
+    <path d="M240,460 C240,468.284 233.284,475 225,475 C216.716,475 210,468.284 210,460 C210,451.716 216.716,445 225,445 C233.284,445 240,451.716 240,460 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1605.1,131.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2135.1,131.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1605.1,1091.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2135.1,1091.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1645.1,151.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1857.6,201.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1882.6,201.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2095.1,151.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1645.1,1071.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1882.6,1035.13)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1857.6,1035.13)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1853.35,1027.72)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1886.85,1027.72)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2095.1,1071.86)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-100,60 C-133.137,60 -160,33.1371 -160,7.34788e-15 C-160,-33.1371 -133.137,-60 -100,-60 L100,-60 C133.137,-60 160,-33.1371 160,-4.66294e-13 C160,33.1371 133.137,60 100,60 L-100,60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M130,0 C130,16.5685 116.569,30 100,30 C83.4315,30 70,16.5685 70,0 C70,-16.5685 83.4315,-30 100,-30 C116.569,-30 130,-16.5685 130,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-119,-20.567 L-119,20.567 C-108.272,30.4777 -91.7281,30.4777 -81,20.567 L-81,-20.567 C-91.7281,-30.4777 -108.272,-30.4777 -119,-20.567 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-100,60 C-133.137,60 -160,33.1371 -160,7.34788e-15 C-160,-33.1371 -133.137,-60 -100,-60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-100,60 L100,60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-100,-60 L100,-60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M100,-60 C133.137,-60 160,-33.1371 160,-4.66294e-13 C160,33.1371 133.137,60 100,60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M130,0 C130,16.5685 116.569,30 100,30 C83.4315,30 70,16.5685 70,0 C70,-16.5685 83.4315,-30 100,-30 C116.569,-30 130,-16.5685 130,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-119,-20.567 L-119,20.567" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-119,-20.567 C-108.272,-30.4777 -91.7281,-30.4777 -81,-20.567 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-81,20.567 L-81,-20.567" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,340.604,1416.93)">
+    <path d="M-81,20.567 C-91.7281,30.4777 -108.272,30.4777 -119,20.567 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,240.604,1416.93)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,440.604,1416.93)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,304.104,1502.75)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x2</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,304.104,1502.75)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="66" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-250,60 C-283.137,60 -310,33.1371 -310,7.34788e-15 C-310,-33.1371 -283.137,-60 -250,-60 L250,-60 C283.137,-60 310,-33.1371 310,-2.66454e-14 C310,33.1371 283.137,60 250,60 L-250,60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-220,0 C-220,16.5685 -233.431,30 -250,30 C-266.569,30 -280,16.5685 -280,0 C-280,-16.5685 -266.569,-30 -250,-30 C-233.431,-30 -220,-16.5685 -220,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M280,0 C280,16.5685 266.569,30 250,30 C233.431,30 220,16.5685 220,0 C220,-16.5685 233.431,-30 250,-30 C266.569,-30 280,-16.5685 280,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-250,60 C-283.137,60 -310,33.1371 -310,7.34788e-15 C-310,-33.1371 -283.137,-60 -250,-60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-250,60 L250,60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-250,-60 L250,-60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M250,-60 C283.137,-60 310,-33.1371 310,-2.66454e-14 C310,33.1371 283.137,60 250,60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M-220,0 C-220,16.5685 -233.431,30 -250,30 C-266.569,30 -280,16.5685 -280,0 C-280,-16.5685 -266.569,-30 -250,-30 C-233.431,-30 -220,-16.5685 -220,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1110.8,1406.03)">
+    <path d="M280,0 C280,16.5685 266.569,30 250,30 C233.431,30 220,16.5685 220,0 C220,-16.5685 233.431,-30 250,-30 C266.569,-30 280,-16.5685 280,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,860.801,1406.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1360.8,1406.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1074.3,1477.32)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x2</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1074.3,1477.32)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="66" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-521.939,60 C-555.076,60 -581.939,33.1371 -581.939,7.34788e-15 C-581.939,-33.1371 -555.076,-60 -521.939,-60 L521.939,-60 C555.076,-60 581.939,-33.1371 581.939,0 C581.939,33.1371 555.076,60 521.939,60 L-521.939,60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M562.931,5 L546.765,33 C544.979,36.094 541.678,38 538.105,38 L505.774,38 C502.201,38 498.9,36.094 497.113,33 L480.947,5 C479.161,1.90599 479.161,-1.90599 480.947,-5 L497.113,-33 C498.9,-36.094 502.201,-38 505.774,-38 L538.105,-38 C541.678,-38 544.979,-36.094 546.765,-33 L562.931,-5 C564.718,-1.90599 564.718,1.90599 562.931,5 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M8.06069,0 C8.06069,16.5685 -5.37077,30 -21.9393,30 C-38.5079,30 -51.9393,16.5685 -51.9393,0 C-51.9393,-16.5685 -38.5079,-30 -21.9393,-30 C-5.37077,-30 8.06069,-16.5685 8.06069,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-491.939,0 C-491.939,16.5685 -505.371,30 -521.939,30 C-538.508,30 -551.939,16.5685 -551.939,0 C-551.939,-16.5685 -538.508,-30 -521.939,-30 C-505.371,-30 -491.939,-16.5685 -491.939,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M562.931,5 L546.765,33" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M562.931,5 C564.718,1.90599 564.718,-1.90599 562.931,-5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M546.765,33 C544.979,36.094 541.678,38 538.105,38 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M546.765,-33 L562.931,-5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M538.105,38 L505.774,38" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M538.105,-38 C541.678,-38 544.979,-36.094 546.765,-33 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M505.774,38 C502.201,38 498.9,36.094 497.113,33 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M505.774,-38 L538.105,-38" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M497.113,33 L480.947,5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M497.113,-33 C498.9,-36.094 502.201,-38 505.774,-38 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M480.947,5 C479.161,1.90599 479.161,-1.90599 480.947,-5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M480.947,-5 L497.113,-33" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-521.939,60 C-555.076,60 -581.939,33.1371 -581.939,7.34788e-15 C-581.939,-33.1371 -555.076,-60 -521.939,-60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-521.939,60 L521.939,60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-521.939,-60 L521.939,-60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M521.939,-60 C555.076,-60 581.939,-33.1371 581.939,0 C581.939,33.1371 555.076,60 521.939,60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M-491.939,0 C-491.939,16.5685 -505.371,30 -521.939,30 C-538.508,30 -551.939,16.5685 -551.939,0 C-551.939,-16.5685 -538.508,-30 -521.939,-30 C-505.371,-30 -491.939,-16.5685 -491.939,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,747.5,1762.07)">
+    <path d="M8.06069,0 C8.06069,16.5685 -5.37077,30 -21.9393,30 C-38.5079,30 -51.9393,16.5685 -51.9393,0 C-51.9393,-16.5685 -38.5079,-30 -21.9393,-30 C-5.37077,-30 8.06069,-16.5685 8.06069,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1301.77,1762.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1285.61,1790.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1285.61,1734.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1253.27,1790.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1253.27,1734.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1237.11,1762.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,225.561,1762.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1269.44,1762.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,725.561,1762.07)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,711,1851.52)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x2</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,711,1851.52)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="66" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2340.35,1406.03)">
+    <path d="M30,0 C30,16.5685 16.5685,30 0,30 C-16.5685,30 -30,16.5685 -30,0 C-30,-16.5685 -16.5685,-30 0,-30 C16.5685,-30 30,-16.5685 30,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2340.35,1406.03)">
+    <path d="M15,0 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,0 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,2340.35,1406.03)">
+    <path d="M30,0 C30,16.5685 16.5685,30 0,30 C-16.5685,30 -30,16.5685 -30,0 C-30,-16.5685 -16.5685,-30 0,-30 C16.5685,-30 30,-16.5685 30,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,2340.35,1406.03)">
+    <path d="M15,0 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,0 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2340.35,1406.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2298.99,1469.75)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x15</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2298.99,1469.75)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="91" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2347.99,1847.72)">
+    <path d="M50,0 C50,27.6142 27.6142,50 0,50 C-27.6142,50 -50,27.6142 -50,0 C-50,-27.6142 -27.6142,-50 0,-50 C27.6142,-50 50,-27.6142 50,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,2347.99,1847.72)">
+    <path d="M15,0 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,0 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,2347.99,1847.72)">
+    <path d="M50,0 C50,27.6142 27.6142,50 0,50 C-27.6142,50 -50,27.6142 -50,0 C-50,-27.6142 -27.6142,-50 0,-50 C27.6142,-50 50,-27.6142 50,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,2347.99,1847.72)">
+    <path d="M15,0 C15,8.28427 8.28427,15 0,15 C-8.28427,15 -15,8.28427 -15,0 C-15,-8.28427 -8.28427,-15 0,-15 C8.28427,-15 15,-8.28427 15,0 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,2347.99,1847.72)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2310.49,1914.23)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x5</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,2310.49,1914.23)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="68" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-60,-115.5 L-60,85.5 C-60,86.8807 -61.1193,88 -62.5,88 L-87.3861,88 C-88.0887,88 -88.7588,88.2956 -89.2325,88.8145 C-89.7062,89.3334 -89.9396,90.0276 -89.8758,90.7273 C-88.4656,106.175 -75.5118,118 -60,118 L60,118 C75.5118,118 88.4656,106.175 89.8758,90.7273 C89.9396,90.0276 89.7062,89.3334 89.2325,88.8145 C88.7588,88.2956 88.0887,88 87.3861,88 L62.5,88 C61.1193,88 60,86.8807 60,85.5 L60,-115.5 C60,-116.881 58.8807,-118 57.5,-118 L-57.5,-118 C-58.8807,-118 -60,-116.881 -60,-115.5 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M30,-58 C30,-41.4315 16.5685,-28 0,-28 C-16.5685,-28 -30,-41.4315 -30,-58 C-30,-74.5685 -16.5685,-88 0,-88 C16.5685,-88 30,-74.5685 30,-58 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-30.5,30.5 L-30.5,57.5 C-30.5,58.8807 -29.3807,60 -28,60 L28,60 C29.3807,60 30.5,58.8807 30.5,57.5 L30.5,30.5 C30.5,29.1193 29.3807,28 28,28 L-28,28 C-29.3807,28 -30.5,29.1193 -30.5,30.5 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-60,-115.5 L-60,85.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-60,85.5 C-60,86.8807 -61.1193,88 -62.5,88 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-60,-115.5 C-60,-116.881 -58.8807,-118 -57.5,-118 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-62.5,88 L-87.3861,88" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-57.5,-118 L57.5,-118" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-87.3861,88 C-88.0887,88 -88.7588,88.2956 -89.2325,88.8145 C-89.7062,89.3334 -89.9396,90.0276 -89.8758,90.7273 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M60,-115.5 C60,-116.881 58.8807,-118 57.5,-118 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-89.8758,90.7273 C-88.4656,106.175 -75.5118,118 -60,118 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M60,-115.5 L60,85.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-60,118 L60,118" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M60,85.5 C60,86.8807 61.1193,88 62.5,88 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M60,118 C75.5118,118 88.4656,106.175 89.8758,90.7273 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M62.5,88 L87.3861,88" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M89.8758,90.7273 C89.9396,90.0276 89.7062,89.3334 89.2325,88.8145 C88.7588,88.2956 88.0887,88 87.3861,88 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M30,-58 C30,-41.4315 16.5685,-28 0,-28 C-16.5685,-28 -30,-41.4315 -30,-58 C-30,-74.5685 -16.5685,-88 0,-88 C16.5685,-88 30,-74.5685 30,-58 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-30.5,30.5 L-30.5,57.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-30.5,57.5 C-30.5,58.8807 -29.3807,60 -28,60 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-28,60 L28,60" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M28,60 C29.3807,60 30.5,58.8807 30.5,57.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M30.5,57.5 L30.5,30.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M30.5,30.5 C30.5,29.1193 29.3807,28 28,28 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M28,28 L-28,28" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1406.03)">
+    <path d="M-28,28 C-29.3807,28 -30.5,29.1193 -30.5,30.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1830.87,1491.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1835.87,1290.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1805.99,1496.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1950.87,1290.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1833.37,1494.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1955.87,1491.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1953.37,1494.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1980.76,1496.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1893.37,1348.03)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1865.37,1463.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1921.37,1463.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1921.37,1436.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1865.37,1436.53)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1856.87,1547.46)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x2</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1856.87,1547.46)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="66" xml:space="preserve" y="92"/>
+   </g>
+   <g fill="#f1f3f5" fill-opacity="0" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-32.5,5 L-57.3861,5 C-58.0887,5 -58.7588,5.29562 -59.2325,5.8145 C-59.7062,6.33338 -59.9396,7.02762 -59.8758,7.72727 C-58.4656,23.1748 -45.5118,35 -30,35 L30,35 C45.5118,35 58.4656,23.1748 59.8758,7.72727 C59.9396,7.02762 59.7062,6.33338 59.2325,5.8145 C58.7588,5.29562 58.0887,5 57.3861,5 L32.5,5 C31.1193,5 30,3.88071 30,2.5 L30,-32.5 C30,-33.8807 28.8807,-35 27.5,-35 L-27.5,-35 C-28.8807,-35 -30,-33.8807 -30,-32.5 L-30,2.5 C-30,3.88071 -31.1193,5 -32.5,5 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-32.5,5 L-57.3861,5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-57.3861,5 C-58.0887,5 -58.7588,5.29562 -59.2325,5.8145 C-59.7062,6.33338 -59.9396,7.02762 -59.8758,7.72727 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-59.8758,7.72727 C-58.4656,23.1748 -45.5118,35 -30,35 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M30,35 L-30,35" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M30,35 C45.5118,35 58.4656,23.1748 59.8758,7.72727 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M59.8758,7.72727 C59.9396,7.02762 59.7062,6.33338 59.2325,5.8145 C58.7588,5.29562 58.0887,5 57.3861,5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M57.3861,5 L32.5,5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M30,2.5 C30,3.88071 31.1193,5 32.5,5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M30,2.5 L30,-32.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M30,-32.5 C30,-33.8807 28.8807,-35 27.5,-35 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M27.5,-35 L-27.5,-35" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-27.5,-35 C-28.8807,-35 -30,-33.8807 -30,-32.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-30,-32.5 L-30,2.5" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2.5" transform="matrix(1,0,0,1,1893.37,1847.72)">
+    <path d="M-32.5,5 C-31.1193,5 -30,3.88071 -30,2.5 " fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1835.99,1855.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1863.37,1852.72)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1923.37,1852.72)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1950.76,1855.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1925.87,1850.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1920.87,1815.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1865.87,1815.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1.25" transform="matrix(1,0,0,1,1860.87,1850.22)">
+    <path d="M0,6.25 L0,-6.25 M6.25,0 L-6.25,0" fill-rule="evenodd" vector-effect="none"/>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1856.87,1934.34)">
+    <text fill="#000000" fill-opacity="1" font-family="osifont" font-size="67" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="92">x2</text>
+   </g>
+   <g fill="none" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="#ffffff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1856.87,1934.34)">
+    <text fill="#ffffff" fill-opacity="1" font-family="Segoe UI" font-size="31.75" font-style="normal" font-weight="400" stroke="none" x="66" xml:space="preserve" y="92"/>
+   </g>
+  </g>
+ </g>
+</svg>
